@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Chapter1
+namespace Chapter1sub
 {
     class Product
     {
